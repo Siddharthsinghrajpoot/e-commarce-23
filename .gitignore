@@ -1,4 +1,3 @@
-
 # Node modules
 node_modules/
 admin/node_modules/
@@ -8,10 +7,8 @@ frontend/node_modules/
 # Build output
 dist/
 
-# ✅ Ignore ONLY backend .env file
+# ✅ Ignore ONLY backend .env files
 backend/.env
-backend/.env.*
-# (If backend has multiple envs like .env.local, .env.dev)
 backend/.env.*
 
 # Logs
