@@ -10,7 +10,7 @@ dist/
 
 # ✅ Ignore ONLY backend .env file
 backend/.env
-
+backend/.env.*
 # (If backend has multiple envs like .env.local, .env.dev)
 backend/.env.*
 
