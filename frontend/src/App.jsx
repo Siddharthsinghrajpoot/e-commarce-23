@@ -1,14 +1,18 @@
 import React from 'react'
 import {Routes, Route} from "react-router-dom"
 import Home from './pages/Home'
-import Login from './pages/login'
+
+import Login from './pages/Login'
+
 import About from './pages/About'
 import Collection from './pages/Collection'
 import Contact from './pages/Contact'
 import Navbar from './Components/Navbar'
-import Product from './pages/product'
-import Footer from './Components/footer'
-import SearchBar from './Components/Searchbar'
+
+import Product from './pages/Product'
+import Footer from './Components/Footer'
+import SearchBar from './Components/SearchBar'
+
 import Cart from './pages/Cart'
 import PlaceOrder from './pages/PlaceOrder'
 import Orders from './pages/Orders'

@@ -2,7 +2,9 @@ import React from 'react'
 import { context } from '../context/ShopContext'
 import { useEffect ,useState} from 'react'
 import { useContext } from 'react'
-import FullWidthCard from '../Components/Fullwidthcard'
+
+import FullWidthCard from '../Components/FullWidthCard'
+
 import CartSummary from '../Components/CartSummary'
 
 const Cart = () => {

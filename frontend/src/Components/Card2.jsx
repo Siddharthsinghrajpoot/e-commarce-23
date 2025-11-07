@@ -1,7 +1,7 @@
 import React, { useContext } from 'react'
 import { useState } from 'react';
 import { context } from '../context/ShopContext';
-import Product from '../pages/product';
+
 
 
 const Card2 = ({item}) => {

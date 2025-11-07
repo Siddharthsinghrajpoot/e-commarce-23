@@ -2,7 +2,9 @@ import React from 'react'
 import HeroSection from '../Components/HeroSection'
 import {context}  from '../context/ShopContext'
 import { useContext } from 'react'
-import Title from '../Components/title'
+
+import Title from '../Components/Title'
+
 import Statement from '../Components/Statement'
 import LatestCollection from '../Components/LatestCollection'
 import Title2 from '../Components/Title2'
